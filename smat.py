@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 #./smat.py -s [searchword(s)] -i [source] -o [filename.csv]
+#https://api.smat-app.com/docs
 
 import argparse
 import requests
